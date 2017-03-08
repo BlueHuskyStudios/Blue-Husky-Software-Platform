@@ -1,0 +1,15 @@
+[submodule "components/core/Blue-Base"]
+	path = components/core/Blue-Base
+	url = https://github.com/BlueHuskyStudios/Blue-Base.git
+[submodule "components/core/Husky-IO"]
+	path = components/core/Husky-IO
+	url = https://github.com/BlueHuskyStudios/Husky-IO.git
+[submodule "components/core/Husky-UI"]
+	path = components/core/Husky-UI
+	url = https://github.com/BlueHuskyStudios/Husky-UI.git
+[submodule "components/core/Wag"]
+	path = components/core/Wag
+	url = https://github.com/BlueHuskyStudios/Wag.git
+[submodule "components/structure/Blue-Husky-Software-Structure"]
+	path = components/structure/Blue-Husky-Software-Structure
+	url = https://github.com/BlueHuskyStudios/Blue-Husky-Software-Structure.git
