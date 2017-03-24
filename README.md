@@ -19,3 +19,4 @@ The Software Platform has distinctly separate components, kept separate to encou
 ### Abstract Structure ###
 
  * [Blue Husky Software Structure](https://github.com/BlueHuskyStudios/Blue-Husky-Software-Structure) - The structure of Blue Husky software going forward.
+ * [Blue Husky Stages of Product Creation](https://github.com/BlueHuskyStudios/Blue-Husky-Stages-of-Product-Creation) - The stages through which a product goes throughout its lifetime.

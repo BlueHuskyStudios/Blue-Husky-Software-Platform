@@ -13,3 +13,6 @@
 [submodule "components/structure/Blue-Husky-Software-Structure"]
 	path = components/structure/Blue-Husky-Software-Structure
 	url = https://github.com/BlueHuskyStudios/Blue-Husky-Software-Structure.git
+[submodule "components/structure/Blue-Husky-Stages-of-Product-Creation"]
+	path = components/structure/Blue-Husky-Stages-of-Product-Creation
+	url = https://github.com/BlueHuskyStudios/Blue-Husky-Stages-of-Product-Creation.git
