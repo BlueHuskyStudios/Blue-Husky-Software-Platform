@@ -11,13 +11,14 @@ The Software Platform has distinctly separate components, kept separate to encou
 
 ### Code Repositories ###
 
-There are 12 repositories that make up the platform:
+There are 27 repositories that make up the platform:
 
 | Platform \ Module | Basics | UI | IO | 
 | ----------------- | ------ | -- | -- | 
 | Cross-Platform    | [Blue Base/Core](https://github.com/BlueHuskyStudios/Blue-Base/)💤 | [Husky UI/Core](https://github.com/BlueHuskyStudios/Husky-UI/)💤 | [Husky IO/Core](https://github.com/BlueHuskyStudios/Husky-IO/)💤
 | JVM-only          | [Blue Base/JVM](https://github.com/BlueHuskyStudios/Blue-Base-JVM/)🆕 | [Husky UI/JVM](https://github.com/BlueHuskyStudios/Husky-UI-JVM/)🆕 | [Husky IO/JVM](https://github.com/BlueHuskyStudios/Husky-IO-JVM/) 🚫
 | JS-only           | [Blue Base/JS](https://github.com/BlueHuskyStudios/Blue-Base-JS/) 🚫 | [Husky UI/JS](https://github.com/BlueHuskyStudios/Husky-UI-JS/) 🚫 | [Husky IO/JS](https://github.com/BlueHuskyStudios/Husky-JS/) 🚫
+| Android-only          | [Blue Base/Android](https://github.com/BlueHuskyStudios/Blue-Base-Android/)🚫 | [Husky UI/Android](https://github.com/BlueHuskyStudios/Husky-UI-Android/)🚫 | [Husky IO/Android](https://github.com/BlueHuskyStudios/Husky-IO-Android/) 🚫
 | Apple Shared      | [Blue Base/Foundation](https://github.com/BlueHuskyStudios/Blue-Base-Foundation/) 🚫 | [Husky UI/Foundation](https://github.com/BlueHuskyStudios/Husky-UI-Foundation/) 🚫 | [Husky IO/Foundation](https://github.com/BlueHuskyStudios/Husky-IO-Foundation/) 🚫
 | macOS-only        | [Blue Base/macOS](https://github.com/BlueHuskyStudios/Blue-Base-macOS/) 🚫 | [Husky UI/macOS](https://github.com/BlueHuskyStudios/Husky-UI-macOS/) 🚫 | [Husky IO/macOS](https://github.com/BlueHuskyStudios/Husky-IO-macOS/) 🚫
 | iOS-only          | [Blue Base/iOS](https://github.com/BlueHuskyStudios/Blue-Base-iOS/) 🚫 | [Husky UI/iOS](https://github.com/BlueHuskyStudios/Husky-UI-iOS/) 🚫 | [Husky IO/iOS](https://github.com/BlueHuskyStudios/Husky-IO-iOS/) 🚫
