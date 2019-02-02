@@ -16,3 +16,9 @@
 [submodule "components/structure/Blue-Husky-Stages-of-Product-Creation"]
 	path = components/structure/Blue-Husky-Stages-of-Product-Creation
 	url = https://github.com/BlueHuskyStudios/Blue-Husky-Stages-of-Product-Creation.git
+[submodule "components/core/Blue-Base-JVM"]
+	path = components/core/Blue-Base-JVM
+	url = https://github.com/BlueHuskyStudios/Blue-Base-JVM.git
+[submodule "components/core/Husky-UI-JVM"]
+	path = components/core/Husky-UI-JVM
+	url = https://github.com/BlueHuskyStudios/Husky-UI-JVM.git
