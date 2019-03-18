@@ -1,3 +1,5 @@
+<img src="https://bluehuskystudios.github.io/Blue-Husky-Software-Platform/BHSP%20Logo%20B@1024p.png" width="256px" />
+
 Blue Husky Software Platform 1.1
 ================================
 
