@@ -1,4 +1,4 @@
-<img src="https://bluehuskystudios.github.io/Blue-Husky-Software-Platform/BHSP%20Logo%20B@1024p.png" width="256px" />
+<img src="https://bluehuskystudios.github.io/Blue-Husky-Software-Platform/BHSP%20Logo.svg" width="256px" />
 
 Blue Husky Software Platform 1.1
 ================================
@@ -15,8 +15,8 @@ The Software Platform has distinctly separate components, kept separate to encou
 
 There are 27 repositories that make up the platform:
 
-| Platform \ Module | Basics | UI | IO | 
-| ----------------- | ------ | -- | -- | 
+| Platform \ Module | Basics | UI | IO |
+| ----------------- | ------ | -- | -- |
 | Cross-Platform    | [Blue Base/Core](https://github.com/BlueHuskyStudios/Blue-Base/)💤 | [Husky UI/Core](https://github.com/BlueHuskyStudios/Husky-UI/)💤 | [Husky IO/Core](https://github.com/BlueHuskyStudios/Husky-IO/)💤
 | JVM-only          | [Blue Base/JVM](https://github.com/BlueHuskyStudios/Blue-Base-JVM/)🆕 | [Husky UI/JVM](https://github.com/BlueHuskyStudios/Husky-UI-JVM/)🆕 | [Husky IO/JVM](https://github.com/BlueHuskyStudios/Husky-IO-JVM/) 🚫
 | JS-only           | [Blue Base/JS](https://github.com/BlueHuskyStudios/Blue-Base-JS/) 🚫 | [Husky UI/JS](https://github.com/BlueHuskyStudios/Husky-UI-JS/) 🚫 | [Husky IO/JS](https://github.com/BlueHuskyStudios/Husky-JS/) 🚫
@@ -30,7 +30,7 @@ There are 27 repositories that make up the platform:
  * **Blue Base** is the base foundation upon which all future Blue Husky apps will be written.
  * **Husky IO** is the default I/O tools for Blue Husky software.
  * **Husky UI** is the default UI tools for Blue Husky software.
- 
+
  > 💤 Not yet separated into subrepos<br/>
  > 🆕 Recently created<br/>
  > 🚫 Not yet created

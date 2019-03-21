@@ -1,1 +1,1 @@
-# [Blue Husky Software Platform](https://github.com/BlueHuskyStudios/Blue-Husky-Software-Platform) #
+<img src="https://bluehuskystudios.github.io/Blue-Husky-Software-Platform/BHSP%20Logo.svg" width="256px" />
