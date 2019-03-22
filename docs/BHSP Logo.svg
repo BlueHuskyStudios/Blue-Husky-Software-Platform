@@ -12,20 +12,21 @@
                 <mask id="mask-2" fill="white">
                     <use xlink:href="#path-1"></use>
                 </mask>
-                <rect stroke="#ECEFF1" stroke-width="0.5" x="0.25" y="0.25" width="15.5" height="15.5" rx="1"></rect>
+                <g id="Mask"></g>
                 <g mask="url(#mask-2)">
-                    <g id="Layers-A" style="mix-blend-mode: normal;" transform="translate(0.000000, 6.000000)">
+                    <g id="Layers-A" style="mix-blend-mode: normal;">
                         <g id="Layers">
-                            <rect id="Rectangle" fill="#0D47A1" x="0" y="9" width="16" height="1"></rect>
-                            <rect id="Rectangle-Copy" fill="#303F9F" x="0" y="8" width="16" height="1"></rect>
-                            <rect id="Rectangle-Copy-2" fill="#512DA8" x="0" y="7" width="16" height="1"></rect>
-                            <rect id="Rectangle-Copy-3" fill="#8E24AA" x="0" y="6" width="16" height="1"></rect>
-                            <rect id="Rectangle-Copy-4" fill="#E91E63" x="0" y="5" width="16" height="1"></rect>
-                            <rect id="Rectangle-Copy-5" fill="#EF5350" x="0" y="4" width="16" height="1"></rect>
-                            <rect id="Rectangle-Copy-6" fill="#FF8A65" x="0" y="3" width="16" height="1"></rect>
-                            <rect id="Rectangle-Copy-7" fill="#FFCC80" x="0" y="2" width="16" height="1"></rect>
-                            <rect id="Rectangle-Copy-8" fill="#FFECB3" x="0" y="1" width="16" height="1"></rect>
-                            <rect id="Rectangle-Copy-9" fill="#FFFDE7" x="0" y="0" width="16" height="1"></rect>
+                            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="16" height="16"></rect>
+                            <rect id="Rectangle" fill="#0D47A1" x="0" y="15" width="16" height="1"></rect>
+                            <rect id="Rectangle-Copy" fill="#303F9F" x="0" y="14" width="16" height="1"></rect>
+                            <rect id="Rectangle-Copy-2" fill="#512DA8" x="0" y="13" width="16" height="1"></rect>
+                            <rect id="Rectangle-Copy-3" fill="#8E24AA" x="0" y="12" width="16" height="1"></rect>
+                            <rect id="Rectangle-Copy-4" fill="#E91E63" x="0" y="11" width="16" height="1"></rect>
+                            <rect id="Rectangle-Copy-5" fill="#EF5350" x="0" y="10" width="16" height="1"></rect>
+                            <rect id="Rectangle-Copy-6" fill="#FF8A65" x="0" y="9" width="16" height="1"></rect>
+                            <rect id="Rectangle-Copy-7" fill="#FFCC80" x="0" y="8" width="16" height="1"></rect>
+                            <rect id="Rectangle-Copy-8" fill="#FFECB3" x="0" y="7" width="16" height="1"></rect>
+                            <rect id="Rectangle-Copy-9" fill="#FFFDE7" x="0" y="6" width="16" height="1"></rect>
                         </g>
                     </g>
                     <g id="Group-2" opacity="0.625534784" style="mix-blend-mode: luminosity;">
@@ -71,6 +72,7 @@
                             </g>
                         </g>
                     </g>
+                    <path d="M1,0.5 C0.723857625,0.5 0.5,0.723857625 0.5,1 L0.5,15 C0.5,15.2761424 0.723857625,15.5 1,15.5 L15,15.5 C15.2761424,15.5 15.5,15.2761424 15.5,15 L15.5,1 C15.5,0.723857625 15.2761424,0.5 15,0.5 L1,0.5 Z M1,0 L15,0 C15.5522847,-1.01453063e-16 16,0.44771525 16,1 L16,15 C16,15.5522847 15.5522847,16 15,16 L1,16 C0.44771525,16 6.76353751e-17,15.5522847 0,15 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z" id="Rectangle" fill-opacity="0.140024038" fill="#000000" fill-rule="nonzero"></path>
                 </g>
             </g>
         </g>
