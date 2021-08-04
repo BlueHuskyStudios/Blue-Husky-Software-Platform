@@ -1,3 +1,34 @@
+# Vitrified #
+This was a very well-thought-out approach when I invented it. However, since then, I've adopted the micropackage apporach to software platforms; rather than one all-trades set of libraries, instead I now prefer several small special-purpose libraries. I publish these under the [RougeWare](https://github.com/RougeWare/) brand.
+
+I'm keeping this repository public because I'm proud of what I did here, and vitrifying it with this note to let it be known that I no longer agree with it.
+
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+
 <img src="https://bluehuskystudios.github.io/Blue-Husky-Software-Platform/BHSP%20Logo.svg" width="256px" />
 
 Blue Husky Software Platform 1.1
